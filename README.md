@@ -4,8 +4,9 @@
 
 * Изменения есть.
 
-*[Контакты](CONTACTS.md)
+* [Контакты](CONTACTS.md)
 
 * Loshqi
 
-* Loshqi
+* LOHI
+
